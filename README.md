@@ -23,7 +23,3 @@ https://www.webdesignleaves.com/pr/plugins/swiper_js.html <br>
 
 # あとがき
 簡単ではありますが、以上が模擬ECサイトとなります。ECの要素はあまりありませんがご容赦ください。<br>
-* 渡会竜平 <br>
-* 大分大学 <br>
-* watarai.tappei.2000@gmail.com
-
